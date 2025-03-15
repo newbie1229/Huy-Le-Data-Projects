@@ -5,5 +5,5 @@
 - 🛠️ **Relevant skills:**
 basic data manipulation with NumPy,
 basic data visulization with Matplotlib,
-intermediate Python skills, 
+intermediate Python, 
 basic statistics
