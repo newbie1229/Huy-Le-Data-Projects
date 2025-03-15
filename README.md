@@ -1,7 +1,7 @@
 # Huy-Le-Data-Projects
 
-## 🔹 [Case study: Dire Game Simulation](Case-study/README.md)
-- 🔗 **Simulate a dire game using basic Statistics and Python**
+## 🔹 [Case study: Dice Game Simulation]
+- 🔗 **Simulate a dice game using basic Statistics and Python**
 - 🛠️ **Relevant skills:**
 basic data manipulation with NumPy,
 basic data visulization with Matplotlib,
