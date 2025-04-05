@@ -1,6 +1,6 @@
 # Huy-Le-Data-Projects
 
-## 🔹 [Project: Netflix movies data exploration]
+## 🔹 [Project: Netflix movies data exploration][Netflix_movies]
 - 🔗 **Gain some insights about Netflix movies in the 1990s decade using Pandas**
 - 🛠️ **Relevant skills:**
 Basic NumPy, basic data manipulation with pandas, working with CSV files using Pandas
