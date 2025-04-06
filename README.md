@@ -5,7 +5,7 @@
 - 🧠 **Relevant skills:**
 Data handling and reading, working with csv file using Pandas, data manipulation using Pandas, data visualization using Seaborn
 
-## 🔹 [Project: Netflix movies exploration](./Netflix_movies/)
+## 🔹 [Project: Netflix Movies Exploration](./Netflix_movies/)
 - 🔗 **Gain interesting insights about Netflix from 1942-2021**
 - 🧠 **Relevant skills:**
 Data handling and reading, working with csv file using Pandas, data manipulation using Pandas, numerical operations, data visulization using Seaborn.
