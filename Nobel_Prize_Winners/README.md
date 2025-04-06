@@ -72,4 +72,4 @@
     🔹Data visulization using Seaborn:
         - Line plot.
         - Categorical plot.
-        - Plot customization.
+        - Plot customization (labels, title, color palette, layout)
