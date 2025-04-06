@@ -19,6 +19,7 @@ gen_bar = sns.catplot(x='mod_gen',y='count',data=common_gen,kind='bar',palette='
 gen_bar.fig.suptitle('Most common genres')
 gen_bar.set(xlabel='Genre',ylabel='Number of movies')
 plt.xticks(rotation=90)
+plt.tight_layout()
 plt.show()
 
 #%% Most productive producers
@@ -30,6 +31,7 @@ dir_bar = sns.catplot(x='mod_dir',y='count',data=pro_dir,kind='bar',palette='Blu
 dir_bar.fig.suptitle('Most productive directors')
 dir_bar.set(xlabel='Director',ylabel='Number of movies')
 plt.xticks(rotation=90)
+plt.tight_layout()
 plt.show() 
 
 

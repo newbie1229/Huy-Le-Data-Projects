@@ -57,7 +57,7 @@
         - Counting
         - Grouping
         - Selecting
-        - Filtering
+        - Aggregating
     🔹Numerical operations
     🔹Data visulization using Seaborn:
         - Line plot
