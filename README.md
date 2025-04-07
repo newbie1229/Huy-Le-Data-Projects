@@ -10,7 +10,7 @@ Data handling and reading, working with csv file using Pandas, data manipulation
 - 🧠 **Relevant skills:**
 Data handling and reading, working with csv file using Pandas, data manipulation using Pandas, numerical operations, data visulization using Seaborn.
 
-## 🔹 [Project: Explore public schools performances in New York City](./NYC_Public_Schools_Tests/)
-- 🔗 **Find out about public schools performance based on the SAT scores across boroughs in New York city using Pandas**
+## 🔹 [Project: New York City public schools performances exploration ](./NYC_Public_Schools_SAT/)
+- 🔗 **Gain interesting insights about NYC public schools's SAT scores**
 - 🧠 **Relevant skills:**
-DataFrame manipulation, data filtering with Pandas, data aggregation and grouping, data sorting and selecting, mapping function
+Data manipulation, data handling and reading, working with CSV file using Pandas, data visulization using Seaborn.
