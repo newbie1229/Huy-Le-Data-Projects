@@ -113,7 +113,5 @@
         - Histogram
         - Bar chart
         - Plot customization (layout, color pallete, labels, titles)
-    
 
-
-
+*Data source: DataCamp*
