@@ -63,3 +63,5 @@
         - Line plot
         - Categorical plot
         - Plot customization (labels, titles, color palettes, layout)
+
+*Data source: DataCamp*
