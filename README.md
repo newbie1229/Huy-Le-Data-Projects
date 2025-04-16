@@ -1,9 +1,8 @@
 # Huy-Le-Data-Projects
 
 ## 🔹 [Project: Olist Ecommerce Marketplace Exploration](./Olist_Ecommerce/README.md)
-- 🔗 **Gain interesting insights about the last 1000 Nobel Prize Winners**
-- 🧠 **Relevant skills:**
-Data handling and reading, working with csv file using Pandas, data manipulation using Pandas, data visualization using Seaborn
+- 🔗 **Gain interesting insights about the Brazilian Ecommerce Marketplace**
+- 🔹 [Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)
 
 ## 🔹 [Project: Nobel Prize Winners Exploration](./Nobel_Prize_Winners/)
 - 🔗 **Gain interesting insights about the last 1000 Nobel Prize Winners**
