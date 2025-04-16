@@ -91,7 +91,7 @@
 
 🔹 No apparent relationship between rating and revenue.
 
-## 🧠 Skills used in this project:
+## 🧠 Skills used in this analysis:
 
 🔸 Python:
     
