@@ -29,7 +29,7 @@
 
 ![](images/active_part.png)
 
-## 🧠 Skills used in this project:
+## 🧠 Skills used in this analysis:
 
 🔸 Python:
 
