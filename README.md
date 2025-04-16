@@ -2,11 +2,11 @@
 
 ## 🔹 [Project: Olist Ecommerce Marketplace Exploration](./Olist_Ecommerce/README.md)
 - 🔗 **Gain interesting insights about the Brazilian Ecommerce Marketplace**
-
-🔹 **[Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)**
+- 🔹 **[Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)**
 - 🔹 **[Revenue Analysis](./Olist_Ecommerce/Rev_cat/README.md)**
 - 🔹 **[Customer Behavior Analysis](./Olist_Ecommerce/Customer_behavior/README.md)**
--   
+- 🔹 **[Delivery Time Analysis](./Olist_Ecommerce/Delivery_city/README.md)**
+- 🔹 **[Cancellation Rate Analysis](./Olist_Ecommerce/Cancellation_rate/README.md)**
 
 ## 🔹 [Project: Nobel Prize Winners Exploration](./Nobel_Prize_Winners/)
 - 🔗 **Gain interesting insights about the last 1000 Nobel Prize Winners**
