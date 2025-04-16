@@ -2,7 +2,7 @@
 
 ## 🔹 [Project: Olist Ecommerce Marketplace Exploration](./Olist_Ecommerce/README.md)
 - 🔗 **Gain interesting insights about the Brazilian Ecommerce Marketplace**
-- 🔹 **[Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)**
+🔹 **[Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)**
 - 🔹 **[Revenue Analysis](./Olist_Ecommerce/Rev_cat/README.md)**
 - 🔹 **[Customer Behavior Analysis](./Olist_Ecommerce/Customer_behavior/README.md)**
 -   
