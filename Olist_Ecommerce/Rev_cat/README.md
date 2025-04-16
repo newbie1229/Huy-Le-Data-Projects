@@ -51,7 +51,7 @@
 - The revenue of the bottom 10 categories are **677801.64 RBL (99.76%)** lower than that of the top 10 categories.
 - The distribution of revenue in Olist ecommerce marketplace is uneven.
 
-## 🧠 Skills used in this project:
+## 🧠 Skills used in this analysis:
 
 🔸 Python:
     
