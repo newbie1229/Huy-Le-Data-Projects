@@ -60,7 +60,7 @@
 
 - The distribution of delivery time is not even, and there are some cities which can be seen as outliers such as Fiera de Santana (64 days) and Manaus (45 days).
 
-## 🧠 Skills used in this project:
+## 🧠 Skills used in this analysis:
 
 🔸 Python:
 
