@@ -1,5 +1,9 @@
 # Huy-Le-Data-Projects
 
+## Data Engineering
+## 🔹 [Project: Clean Marketing Campaign Data](./clean_marketing_campaign_data/README.md)
+
+## Data Analytics
 ## 🔹 [Project: Olist Ecommerce Marketplace Exploration](./Olist_Ecommerce/README.md)
 - 🔗 **Gain interesting insights about the Brazilian Ecommerce Marketplace**
 - 🔹 **[Product Rating Analysis](./Olist_Ecommerce/Reviews/README.md)**
