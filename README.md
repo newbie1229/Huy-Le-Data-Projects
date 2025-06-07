@@ -2,6 +2,10 @@
 
 ## Data Engineering
 ## 🔹 [Project: Clean Marketing Campaign Data](./clean_marketing_campaign_data/README.md)
+- 🔗 **Cleaned and structured raw bank marketing data for further analysis**
+- 🔧 **Skills**: Data wrangling, feature engineering, missing value handling, date parsing
+- 🛠️ **Tools**: Python, pandas, numpy
+- 📁 **Output**: Structured CSVs – `client.csv`, `campaign.csv`, `economics.csv`
 
 ## Data Analytics
 ## 🔹 [Project: Olist Ecommerce Marketplace Exploration](./Olist_Ecommerce/README.md)
