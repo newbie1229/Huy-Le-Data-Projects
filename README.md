@@ -1,7 +1,7 @@
 # Huy-Le-Data-Projects
 
 ## Data Engineering
-## 🔹 [Project: Clean Marketing Campaign Data](./building_retail_pipeline/README.md)
+## 🔹 [Project: Building An Elementary Data Pipeline](./building_retail_pipeline/README.md)
 - 🔗 **Clean, transform, and aggregate retail sales data from multiple formats for monthly analysis**
 - 🛠️ **Skills**: ETL design, data cleaning, filtering, transformation logic  
 - 🔧 **Tools**: Python, Pandas, PyArrow  
