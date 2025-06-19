@@ -1,6 +1,12 @@
 # Huy-Le-Data-Projects
 
 ## Data Engineering
+## 🔹 [Project: Clean Marketing Campaign Data](./building_retail_pipeline/README.md)
+- 🔗 **Clean, transform, and aggregate retail sales data from multiple formats for monthly analysis**
+- 🛠️ **Skills**: ETL design, data cleaning, filtering, transformation logic  
+- 🔧 **Tools**: Python, Pandas, PyArrow  
+- 📂 **Output**: Structured CSVs – `clean_data.csv`, `agg_data.csv`
+
 ## 🔹 [Project: Clean Marketing Campaign Data](./clean_marketing_campaign_data/README.md)
 - 🔗 **Clean and structure raw bank marketing data for further analysis**
 - 🔧 **Skills**: Data wrangling, feature engineering, missing value handling, date parsing
